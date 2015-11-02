@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[businessOxygen]]></title>
+        <description><![CDATA[businessOxygen]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 02 Nov 2015 18:13:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Checking logo colours]]></title>
+            <description><![CDATA[<article><h1>Checking logo colours</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23d213ec-7523-4f32-b64a-828f92ddcb22.jpg"></article>]]></description>
+            <link>undefinedchecking-logo-colours/index.html</link>
+            <guid isPermaLink="false">70defd95-cfd2-432e-bcae-3ce5e358e2db</guid>
+            <pubDate>Mon, 02 Nov 2015 18:13:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
