@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[businessOxygen]]></title>
         <description><![CDATA[businessOxygen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/businessoxygen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 08:57:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 10:51:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/businessoxygen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined91ad2f21-e556-4e3c-aea4-a491e96f0a17/index.html</link>
+            <description><![CDATA[<p>Key business skills from professionals who understand your business needs</p>]]></description>
+            <link>https://thegrid.ai/businessoxygen/eb9ce392-b87b-42da-a810-8c08db4af2e4/index.html</link>
+            <guid isPermaLink="false">eb9ce392-b87b-42da-a810-8c08db4af2e4</guid>
+            <pubDate>Thu, 04 Feb 2016 10:51:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Is this site actually working?</p>]]></description>
+            <link>https://thegrid.ai/businessoxygen/91ad2f21-e556-4e3c-aea4-a491e96f0a17/index.html</link>
             <guid isPermaLink="false">91ad2f21-e556-4e3c-aea4-a491e96f0a17</guid>
             <pubDate>Fri, 22 Jan 2016 08:56:46 GMT</pubDate>
         </item>
